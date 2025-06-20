@@ -57,7 +57,7 @@ ScrollReveal().reveal('.card', { origin: 'bottom' });
 //........Typed js............
 
  var typed = new Typed('.typing', {
-      strings: ['Frontend Developer','Backend Developer'],
+      strings: ['Frontend Developer','Backend Developer','Softwere Developer'],
       typeSpeed:200,
       backspeed:100,
       backDelay:1000,
